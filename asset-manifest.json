@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/administrador_pacientesReact/static/css/main.3becedc6.css",
+    "main.js": "/administrador_pacientesReact/static/js/main.bdfb2088.js",
+    "index.html": "/administrador_pacientesReact/index.html",
+    "main.3becedc6.css.map": "/administrador_pacientesReact/static/css/main.3becedc6.css.map",
+    "main.bdfb2088.js.map": "/administrador_pacientesReact/static/js/main.bdfb2088.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3becedc6.css",
+    "static/js/main.bdfb2088.js"
+  ]
+}
