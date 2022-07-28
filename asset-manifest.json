@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/administrador_pacientesReact/static/css/main.3becedc6.css",
-    "main.js": "/administrador_pacientesReact/static/js/main.983f2f06.js",
+    "main.js": "/administrador_pacientesReact/static/js/main.6aa6ebe8.js",
     "index.html": "/administrador_pacientesReact/index.html",
     "main.3becedc6.css.map": "/administrador_pacientesReact/static/css/main.3becedc6.css.map",
-    "main.983f2f06.js.map": "/administrador_pacientesReact/static/js/main.983f2f06.js.map"
+    "main.6aa6ebe8.js.map": "/administrador_pacientesReact/static/js/main.6aa6ebe8.js.map"
   },
   "entrypoints": [
     "static/css/main.3becedc6.css",
-    "static/js/main.983f2f06.js"
+    "static/js/main.6aa6ebe8.js"
   ]
 }
